@@ -1,0 +1,3 @@
+#!/bin/bash
+
+SERVERLESS=1 /var/lang/node12/bin/node ./dist/main.js
